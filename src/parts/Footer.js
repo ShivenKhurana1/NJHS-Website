@@ -15,21 +15,10 @@ export default function Footer() {
           <div className="w-1/3 flex-col ml-16 mr-8">
             <BrandIcon />
             <p className="w-full text-lg text-gray-400 font-light">
-              Growing Your Business
+              Helping Others
               {' '}
               <br />
               Is Our Calling
-            </p>
-          </div>
-          <div className="w-1/3 mt-0 ml-16 mr-0 sm:ml-0 sm:mr-5">
-            <h1 className="text-lg text-theme-blue pt-4 pb-2">
-              Office
-            </h1>
-            <p className="text-lg text-gray-400 font-light">
-              rac.hafidz@gmail.com
-            </p>
-            <p className="text-lg text-gray-400 font-light">
-              Klaten, Central Java, Indonesia
             </p>
           </div>
           <div className="w-1/3 ml-16 sm:ml-0 mt-0">
