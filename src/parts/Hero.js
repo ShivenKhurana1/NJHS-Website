@@ -14,7 +14,7 @@ export default function Hero() {
     <section className="hero">
       <div className="w-full lg:w-1/2 xl:pl-12 sm:pr-2 mt-8">
         <h1 className="text-5xl sm:text-6xl text-theme-blue font-bold leading-tight mb-5">
-          Parkland NJHS <br />
+          Parklands NJHS <br />
           Welcomes you!
         </h1>
 
