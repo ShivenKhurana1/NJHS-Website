@@ -28,8 +28,8 @@ export default class LandingPage extends Component {
         <Hero />
         <Service data={Services} />
         <Portfolio data={Portfolios} />
-        <Advantage data={Advantages} />
-        <Testimonial data={Testimonials} />
+        //<Advantage data={Advantages} />
+        //<Testimonial data={Testimonials} />
         <Discuss />
         <Footer />
       </>
