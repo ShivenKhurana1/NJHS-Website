@@ -65,7 +65,7 @@ export const DiscussForm = (actions) => {
       <Fade direction="up" triggerOnce>
         <p className="font-light text-lg text-gray-400 text-center mb-12">
           {/* eslint-disable-next-line react/no-unescaped-entities */}
-          Please fill out the form below to discuss your project and we'll get back to you in less than 24 hours.
+          Please fill out the form below to discuss your idea and we'll get back to you in less than 24 hours.
         </p>
       </Fade>
 
