@@ -21,8 +21,6 @@ export default function Footer() {
               Is Our Calling
             </p>
           </div>
-          <div className="w-1/3 ml-16 sm:ml-0 mt-0">
-                      </div>
         </div>
         <div className="flex-col text-center mt-7">
           <div className="flex-row">
